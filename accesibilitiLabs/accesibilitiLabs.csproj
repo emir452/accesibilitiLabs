@@ -218,6 +218,7 @@
     <Content Include="Views\Consult\Index.cshtml" />
     <Content Include="Views\Consult\ConsultCreated.cshtml" />
     <Content Include="Views\Consult\ConsultError.cshtml" />
+    <Content Include="Views\Home\Services.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
